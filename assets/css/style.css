@@ -1,0 +1,52 @@
+body {
+   margin: 0;
+   /* width: 1000px; */
+}
+div {
+   margin-left: 5%;
+}
+form {
+   margin: 20%;
+}
+label {
+   margin: 0;
+   display: inline-block;
+   text-align: left;
+   width: 100px;
+}
+.input {
+   /* display: inline-block; */
+   text-align: center;
+   margin-left: 1%;
+   margin-top: 10px;
+   width: 40%;
+}
+.genderLabel {
+   /* margin-top: 3%; */
+   display: inline;
+   text-align: right;
+}
+.genderInline {
+   margin-left: 5%;
+   display: inline;
+}
+.genderInput {
+   margin-left: 0;
+   width: 2%;
+}
+.file {
+   margin-left: 1%;
+}
+.country {
+   margin-left: 1%;
+}
+.language {
+   margin-left: 1%;
+}
+
+#activity {
+   width: 100%;
+}
+div:last-of-type {
+   margin-top: 1%;
+}
