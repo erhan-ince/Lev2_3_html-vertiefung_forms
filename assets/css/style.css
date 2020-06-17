@@ -44,8 +44,11 @@ label {
    margin-left: 1%;
 }
 
-#activity {
-   width: 100%;
+#activity label {
+   width: auto;
+}
+p {
+   display: inline-block;
 }
 div:last-of-type {
    margin-top: 1%;
